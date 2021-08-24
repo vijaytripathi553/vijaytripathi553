@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on FullStack Web Development
 - ⚡ Fun fact  I Prefer tabs over spaces..;-)
 - 📫 How to reach me vijaytripathi553@gmail.com
--
+
 
 <!---
 vijaytripathi553/vijaytripathi553 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
